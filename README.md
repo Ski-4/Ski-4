@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Pushpak-Kamboj](https://www.quora.com/profile/Pushpak-Kamboj)
-
 - 💬 Ask me about **Computer Science Engineering**
 
 - 📫 How to reach me **pushpakkamboj@gmail.com**
