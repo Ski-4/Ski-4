@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ski-4&label=Profile%20views&color=0e75b6&style=flat" alt="ski-4" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
-
 - 💬 Ask me about **Computer Science Engineering**
 
 - 📫 How to reach me **pushpakkamboj@gmail.com**
